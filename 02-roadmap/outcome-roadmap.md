@@ -24,8 +24,6 @@ Horizon ranges are planning bands relative to initiative start, not delivery-dat
 | Later (6 to 12 mo) | Bet: subcontractors access relevant documents without asking office teams. Explore a narrow version of backlog #14 only if missing documents repeatedly block issue resolution. | Product, engineering, UX research, customer success | Evidence that document access is a recurring blocker, followed by reduced document-related chasing; feasibility and demand remain unvalidated. |
 | Later (6 to 12 mo) | Bet: mid-market contractors adopt the proven field workflow without enterprise-heavy onboarding. Expansion follows field value in existing accounts, not the reverse. | Product, UX research, customer success | Evidence of repeat field use and lower coordination effort in the initial segment, followed by segment-specific adoption and commercial validation. |
 
-[Shareable roadmap view](https://github.com/zeMinimalist/product-leadership-final/blob/main/02-roadmap/outcome-roadmap.md#1-outcome-roadmap)
-
 ## 2. Trade-off memo
 
 ### What I sequence first
@@ -69,7 +67,3 @@ Product owns the roadmap and reviews it with engineering, UX research, and custo
 Revisit priorities if foremen do not participate, synchronization cannot preserve required records, pilot evidence does not show less chasing, or verified renewal exposure materially changes the business trade-off. Revise targets after validating baselines; do not treat mandated app use as proof of user value.
 
 [Exercise 1 audit, original priorities, and peer feedback](./backlog-prioritization.md)
-
-## Link to full artifact
-
-[Outcome roadmap and trade-off memo](https://github.com/zeMinimalist/product-leadership-final/blob/main/02-roadmap/outcome-roadmap.md)
