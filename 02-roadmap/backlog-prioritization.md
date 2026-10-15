@@ -1,7 +1,6 @@
 # Meridian Foundations — Backlog Prioritization
 
 > Module 2 · Exercise 1: Audit and Prioritize Your Backlog
-> Status: Exercise 1 decisions and peer feedback captured; Exercise 2 roadmap refinement is separate.
 
 ## Strategic context
 
@@ -25,12 +24,12 @@ All numerical baselines are illustrative planning assumptions, not Meridian data
 
 Scores are provisional judgments, not measured impact or engineering estimates. Impact measures contribution to the specific M1 outcomes, not general commercial value: 1 = little direct contribution; 3 = supporting contribution; 5 = essential to the workflow. Effort covers engineering, design, and PM time for an additive pilot scope: 1 = small change; 3 = bounded cross-functional work; 5 = broad architectural/module work.
 
-For this draft, high impact = 4–5 and lower effort = 1–3. Validate estimates with engineering and field research. Matrix categories inform decisions; strategic dependencies and service obligations can override them explicitly.
+For this draft, high impact = 4–5 and lower effort = 1–3. Validate estimates with engineering and field research. Matrix categories inform my decisions. Strategic dependencies, service obligations, and explicit scope exclusions can override them: I prioritize offline capability despite its high effort, triage the broken integration as a service obligation, and reject executive dashboards and cosmetic UI work despite their lower estimated effort.
 
 | # | Backlog item | Impact / 5 | Effort / 5 | Matrix position | Decision and rationale |
 |---|---|---|---|---|---|
 | 1 | Offline-first mobile experience | 5 | 4 | Plan Carefully | Rock: poor connectivity can break the core workflow. Stage a bounded issue-workflow pilot, not platform-wide offline support. |
-| 2 | Photo markup and annotation | 4 | 2 | Do Now | Initial Rock: clearer context may reduce clarification and chasing. Peer challenged its Rock status; keep the hypothesis open. |
+| 2 | Photo markup and annotation | 4 | 2 | Do Now | Rock: clearer context may reduce clarification and chasing; the peer review questions whether this is a strategic capability or an enhancement. |
 | 3 | Data-model migration for multi-project dashboards | 1 | 5 | Avoid | Hard No: a dashboard-led migration consumes capacity without directly improving the chosen field workflow. |
 | 4 | Daily log: 14 required fields to 4 | 3 | 2 | Fill Gaps | Useful field improvement, but a separate workflow. Validate mandatory compliance fields before simplifying. |
 | 5 | Automated compliance checklist generator | 2 | 4 | Avoid | Defer new automation; preserve existing compliance functionality. |
@@ -50,7 +49,7 @@ The lab recommends halving impact and doubling effort estimates as a pessimism c
 
 Offline capability is promoted from Plan Carefully to a Rock because it is a strategic prerequisite, not because the matrix identifies it as a quick win.
 
-## Three Rocks — Exercise 1 selections
+## Three Rocks
 
 ### Rock #1: Item #1 — Offline-first mobile experience
 
@@ -58,7 +57,7 @@ Enable superintendents to capture and progress site issues despite poor connecti
 
 ### Rock #2: Item #2 — Photo markup and annotation
 
-Let superintendents show exactly where and what the problem is so foremen need fewer clarification exchanges, supporting **KR2** and **KR1**. The effect on chasing is a hypothesis, not established evidence. This initial selection remains recorded here; its status is challenged by peer feedback below.
+Let superintendents show exactly where and what the problem is so foremen need fewer clarification exchanges, supporting **KR2** and **KR1**. The effect on chasing is a hypothesis to validate through the pilot.
 
 ### Rock #3: Item #7 — Foreman-facing mobile app
 
@@ -87,10 +86,3 @@ My peer considers Rock #1 (offline-first mobile) and Rock #3 (foreman-facing mob
 ### Pick one Hard No and make the case for why it should actually be a Rock.
 
 My peer challenged Hard No #3 (data-model migration for multi-project dashboards): the current effort estimate is high, but AI could reduce implementation cost and effort enough to warrant reconsidering the decision.
-
-## Response and open decisions for Exercise 2
-
-- **Photo markup:** Fair challenge. It supports the workflow, but we have not shown that annotation is essential to reducing coordination effort. Reconsider its independent Rock status rather than defending it simply because it was selected. No replacement Rock has been agreed.
-- **AI-assisted migration:** Revisit the effort estimate if credible evidence supports a reduction. Lower implementation cost alone does not establish strategic value. Reconsider the migration if it enables the field Rocks or the strategy changes.
-
-These are responses to peer feedback, not additional comments attributed to the peer. Preserve the Exercise 1 selections as the review baseline; record any subsequent changes in the roadmap and trade-off memo.
