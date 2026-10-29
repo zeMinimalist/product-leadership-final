@@ -2,22 +2,16 @@
 
 > Module 6 · Leverage AI Tools for Leadership Execution
 >
-> Your personal reflection on building the strategy end to end.
+> My personal reflection on building the Meridian Foundations strategy end to end.
 
 ## Friction points
 
-_What was the hardest part of building this strategy, and how did you work through it?_
-
-> _____
+The hardest part was connecting field adoption to a credible financial return. Making Meridian easier to use on job sites could create customer value, but that did not automatically prove a retention benefit. I worked through this by separating assumptions from evidence, distinguishing customer time savings from revenue retained, and making the retention mechanism explicit. I then used sensitivity checks and staged funding gates so the business case did not depend on treating an optimistic forecast as a proven result.
 
 ## Key learnings
 
-_A few surprising discoveries or insights you gained from the course overall._
-
-> _____
+A useful product improvement and a sound investment case are not the same thing. I need to explain how customer value translates into a business result, identify the assumption carrying that argument, and define what evidence would justify further investment.
 
 ## "Aha!" moment
 
-_Your main "aha" moment during the project process._
-
-> _____
+My “aha” moment was realizing that passing a product pilot should not automatically unlock the full investment. Adoption and reduced coordination effort can show that the workflow helps users, but they do not yet prove a retention return. Separating product validation from the financial funding decision made the business case more credible.
